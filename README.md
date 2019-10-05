@@ -1,9 +1,11 @@
-# coteditor-theme
-XCode Highlight sysntax theme for great coteditor
+# XCode Theme for [CotEditor](https://coteditor.com)
+
+
+> XCode Highlight syntax theme for great CotEditor
 
 
 
-### Info
+## Info
 
 I just make a new cottheme file for **cotEditor | Native Editor for macOS** and I want to share it
 Excat color code same as new XCode but for some programming languages you will see some differents from these to Apple XCode
@@ -12,7 +14,7 @@ Go to repo and wiki to download themes
 
 
 
-### Screenshots
+## Screenshots
 
 
 
@@ -24,7 +26,7 @@ Go to repo and wiki to download themes
 
 ![IMG-2(Light)](Shots/IMG-2.png)
 
-### Download
+## Download
 
 Cilck [Here](https://github.com/coteditor/CotEditor/)
 
@@ -32,7 +34,7 @@ Then Wiki tab and enjoy
 
 
 
-### How to install
+## How to install
 
 1. Start CotEditor
 2. Go to `Preferences -> Appearance`
@@ -43,12 +45,14 @@ Then Wiki tab and enjoy
 
 
 
-### Author & Credits
+## Author & Credits
 
 CotEditor Developers
 
 Jarvis Mercer (This Theme)
 
+## License
 
+[MIT License](./LICENSE)
 
 #### Thanks
