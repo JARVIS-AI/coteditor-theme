@@ -59,4 +59,7 @@ Jarvis Mercer (This Theme)
 
 [MIT License](./LICENSE)
 
+NOTE!!	
+Any Name, Logo, and assets that contain Apple Inc objects belongs to Apple TM Inc and no one has permission to copy, all rights reserved for Apple Inc
+
 #### Thanks
