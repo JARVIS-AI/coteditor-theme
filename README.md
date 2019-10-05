@@ -7,8 +7,12 @@
 
 ## Info
 
-I just make a new cottheme file for **cotEditor | Native Editor for macOS** and I want to share it
-Excat color code same as new XCode but for some programming languages you will see some differents from these to Apple XCode
+I just make a new cottheme file for **CotEditor | Native Editor for macOS** and I want to share it for others.
+
+
+Exact color code same as new XCode (WWDC 2019) but for some programming languages you will see some differents from original Apple XCode,
+Need some syntax style that is upon on CotEditor styles.
+
 
 Go to repo and wiki to download themes
 
