@@ -40,10 +40,13 @@ Then Wiki tab and enjoy
 
 ## How to install
 
+- Download themes file **.cottheme** from this repo
+
+
 1. Start CotEditor
 2. Go to `Preferences -> Appearance`
 3. Click the gear icon and then select `Import...`
-4. Find and select the `Dracula.cottheme` file and click `Import`
+4. Find and select the `XCode.cottheme` files both Dark and Light and click `Import`
 5. Click the `XCode (Dark) or XCode (Light)` theme to apply it
 6. Enjoy the CotEditor 🎉
 
